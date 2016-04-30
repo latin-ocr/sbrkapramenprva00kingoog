@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sbrkapramenprva00kingoog_0970.png"; bbox 0 0 846 1417; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 140 716 156 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 140 716 156 1184">
+     <span class='ocr_line' id='line_1_1' title="bbox 140 716 156 1184; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 140 1061 156 1184; x_wconf 37' lang='lat' dir='ltr'>2-2-sssa&#39;zd..‹</span> <span class='ocrx_word' id='word_1_2' title='bbox 153 1046 156 1051; x_wconf 71' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 153 971 155 975; x_wconf 95' lang='grc'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 145 762 155 881; x_wconf 39' lang='lat' dir='ltr'>...m-122„</span> <span class='ocrx_word' id='word_1_5' title='bbox 152 750 154 755; x_wconf 93' lang='lat'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 151 716 154 735; x_wconf 78' lang='lat'>-.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 174 62 795 1354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 174 62 795 1354">
+     <span class='ocr_line' id='line_1_2' title="bbox 174 62 795 1354; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 174 62 795 1354; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
